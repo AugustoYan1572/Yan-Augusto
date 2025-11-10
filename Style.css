@@ -1,3 +1,14 @@
-* {
-    background-color: aqua;
+h1 {
+    background-color: gray;
+    border: solid 5px black;
 }
+
+h2 {
+    background-color: bisque;
+}
+
+p {
+    color: blueviolet;
+    font-size: 30px;
+}
+
