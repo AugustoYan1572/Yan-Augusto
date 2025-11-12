@@ -1,12 +1,14 @@
 * {
-    background-color: blue;
+    background-color: rgb(12, 76, 78);
 }
 
 h1 {
-    background-color: gray;
-    border: solid 5px black;
-    color: aquamarine;
-    font-size: 50px;
+    border: 50px;
+    border-top: 50px;
+    border-bottom: 50px;
+    border-left: 50px;
+    border-right: 50px;
+    border: 30px 10px 5px 2px;
 }
 
 h2 {
