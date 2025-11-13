@@ -1,5 +1,5 @@
 * {
-    background-color: rgb(12, 76, 78);
+    background-color: rgb(255, 255, 255);
 }
 
 h1 {
@@ -12,14 +12,26 @@ h1 {
 }
 
 h2 {
-    background-color: green;
     border: solid;
+    display: block;
 }
 
 p {
-    color: red;
-    background-color: black;
-    border: solid 5px white;
+    display: block;
+    border: solid 5px black;
+}
 
+#teste111 {
+    background-color: aquamarine;
+    border: solid 3px;
+}
+
+#descricao {
+    background-color: orange;
+}
+
+#dialogo {
+    background-color: gray;
+    border: solid 3px;
 }
 
