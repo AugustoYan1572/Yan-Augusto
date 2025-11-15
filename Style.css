@@ -31,7 +31,21 @@ p {
 }
 
 #dialogo {
-    background-color: gray;
+    background-color: red;
     border: solid 3px;
+}
+
+.testediv {
+    background-color: gray;
+    padding: 20px;
+}
+
+.testediv h2{
+    background-color: blue;
+}
+
+#dialogo span {
+    background-color: blue;
+    color: white;
 }
 
