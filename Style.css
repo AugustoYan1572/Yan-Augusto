@@ -1,8 +1,4 @@
-* {
-    background-color: rgb(255, 255, 255);
-}
-
-h1 {
+/* h1 {
     border: 50px;
     border-top: 50px;
     border-bottom: 50px;
@@ -47,5 +43,28 @@ p {
 #dialogo span {
     background-color: blue;
     color: white;
+} */
+
+html {
+    background-color: rgb(27, 166, 247);
 }
+
+body {
+    background-color: rgb(182, 123, 51);
+    width: 50%;
+    font-size: 1em;
+}
+
+.pai {
+    background-color: red;
+    width: 50%;
+    font-size: 2em;
+}
+
+.filha {
+    background-color: orange;
+    width: 50%;
+    font-size: 2em;
+}
+
 
