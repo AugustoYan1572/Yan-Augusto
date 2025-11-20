@@ -5,12 +5,13 @@
     overflow-x: hidden;
 } */
 
-/* html {
+html {
     background-color: rgb(27, 166, 247);
     font-size: 16px;
+    border-radius: 15px;
 }
 
-body {
+/*body {
     background-color: rgb(182, 123, 51); 
     width: 50%;
     font-size: 3rem; 
@@ -109,7 +110,7 @@ p {
 
 /* Box-sizing: Border Box */
 
-div{
+/* div{
     width: 100px;
     height: 100px;
     padding: 10px;
@@ -124,4 +125,5 @@ div{
 .sem-border-box{
     background-color: brown;
     box-sizing: border-box;
-}
+} */
+
