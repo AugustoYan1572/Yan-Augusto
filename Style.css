@@ -127,3 +127,12 @@ p {
     box-sizing: border-box;
 } */
 
+.Lista1 {
+    padding-left: 25px;
+    margin-left: 20px;
+    margin-right: 75%;
+}
+
+.Lista1 li {
+    border-bottom: solid 3px;
+}
