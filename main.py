@@ -1,18 +1,22 @@
-print("Quero meu primeiro emprego!")
+# print("Quero meu primeiro emprego!")
 
-nome = "Programador Python"
-idade = 27
-peso = 70.3
-conta = 2 
-contas = 3
+# nome = "Programador Python"
+# idade = 27
+# peso = 70.3
+# conta = 2 
+# contas = 3
 
-ingressos = 50
-compradores = 250
-tem_ingresso_suficiente = (ingressos >= compradores)
-print(tem_ingresso_suficiente)
+# ingressos = 50
+# compradores = 250
+# tem_ingresso_suficiente = (ingressos >= compradores)
+# print(tem_ingresso_suficiente)
 
-print(conta)
-print(nome)
-print(idade)
-print(peso) 
-print(conta + contas)
+# print(conta)
+# print(nome)
+# print(idade)
+# print(peso) 
+# print(conta + contas)
+
+# print("Hello, World!")
+
+print("Olá, eu sou Yan Augusto. estou aprendendo a programa, e já consigo rodar meus primeiros programas em Python")
