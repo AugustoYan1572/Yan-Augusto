@@ -42,6 +42,6 @@
 # print("mensagem 10")
 # print("mensagem 11")
 
-print("eai")
+# print("eai")
 
-print("Olá pessoas", end="" )
+# print("Olá pessoas", end="" )
