@@ -45,3 +45,20 @@
 # print("eai")
 
 # print("Olá pessoas", end="" )
+
+print("Lan code")
+
+print(40.50)
+
+print(type(20.67))
+
+print(type(40))
+
+print(type("Olá"))
+
+print(20+10)
+print(20-10)
+print(20*10)
+print(20/10)
+
+print(2**4)
