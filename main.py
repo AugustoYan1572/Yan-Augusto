@@ -62,3 +62,9 @@ print(20*10)
 print(20/10)
 
 print(2**4)
+
+print(10%4)
+
+print("Olá" + " como vai?")
+
+
