@@ -46,25 +46,54 @@
 
 # print("Olá pessoas", end="" )
 
-print("Lan code")
+# print("Lan code")
 
-print(40.50)
+# print(40.50)
 
-print(type(20.67))
+# print(type(20.67))
 
-print(type(40))
+# print(type(40))
 
-print(type("Olá"))
+# print(type("Olá"))
 
-print(20+10)
-print(20-10)
-print(20*10)
-print(20/10)
+# print(20+10)
+# print(20-10)
+# print(20*10)
+# print(20/10)
 
-print(2**4)
+# print(2**4)
 
-print(10%4)
+# print(10%4)
 
-print("Olá" + " como vai?")
+# print("Olá" + " como vai?")
+
+
+# primeiro_numero = 7
+# segundo_numero = 5
+
+# print(primeiro_numero + segundo_numero)
+# print(primeiro_numero - segundo_numero)
+# print(primeiro_numero * segundo_numero)
+# print(primeiro_numero / segundo_numero)
+
+# resultado_soma = primeiro_numero + segundo_numero 
+
+# print(resultado_soma)
+
+
+# nome = "Lan Code"
+
+# print("Olá, " + nome)
+
+
+# nome = input("Qual é o seu nome?: ")
+
+# print(nome)
+
+num1 = int(input("Digite um número: "))
+num2 = int(input("Digite outro número: "))
+resultado_soma = num1 + num2
+
+print(f"Resultado da soma entre {num1} e {num2} é : {resultado_soma}")
 
 
