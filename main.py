@@ -99,7 +99,7 @@ print(f"Resultado da soma entre {num1} e {num2} é : {resultado_soma}")
 print("Olá")
 print(15+35)
 
-nume1 = 2
-nume2 = 6
+nume1 = 20
+nume2 = 60
 
 print(nume1 + nume2)
