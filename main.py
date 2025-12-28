@@ -100,6 +100,6 @@ print("Olá")
 print(15+35)
 
 nume1 = 2500000
-nume2 = 6000
+nume2 = 600000
 
 print(nume1 + nume2)
