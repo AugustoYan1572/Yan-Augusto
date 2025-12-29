@@ -90,16 +90,18 @@
 
 # print(nome)
 
-num1 = int(input("Digite um número: "))
-num2 = int(input("Digite outro número: "))
-resultado_soma = num1 + num2
+# num1 = int(input("Digite um número: "))
+# num2 = int(input("Digite outro número: "))
+# resultado_soma = num1 + num2
 
-print(f"Resultado da soma entre {num1} e {num2} é : {resultado_soma}")
+# print(f"Resultado da soma entre {num1} e {num2} é : {resultado_soma}")
 
-print("Olá")
-print(15+35)
+# print("Olá")
+# print(15+35)
 
-nume1 = 2500000
-nume2 = 60000000
+# nume1 = 2500000
+# nume2 = 60000000
 
-print(nume1 + nume2)
+# print(nume1 + nume2)
+
+idade = int(input("Qual é a sua idade?"))
