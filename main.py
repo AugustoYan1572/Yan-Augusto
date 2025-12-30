@@ -105,3 +105,8 @@
 # print(nume1 + nume2)
 
 idade = int(input("Qual é a sua idade?"))
+if idade > 17:
+    print("Ta liberado!")
+if idade < 18:
+    print("Pode não!")
+print("Fim do programa")
