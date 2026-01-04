@@ -113,20 +113,28 @@
 
 # print(5 > 2)
 
-senha = "calabreso123"
-tentativa_senha = input("Digite sua senha ")
-if senha == tentativa_senha:
-    print("Acertou! Acesso liberado!")
+# senha = "calabreso123"
+# tentativa_senha = input("Digite sua senha ")
+# if senha == tentativa_senha:
+#     print("Acertou! Acesso liberado!")
+# else:
+#     print("Errou, tente novamente")
+
+
+
+# senha = "calabreso123"
+# tentativa_senha = input("Digite sua senha ")
+# if senha != tentativa_senha:
+#     print("Errou, tente novamente")
+# else:
+#     print("Acertou! Acesso liberado")
+
+
+nota = float (input("Digite sua nota"))
+if nota >= 7:
+    print("Aprovado")
+elif nota >= 5:
+    print("Recuperação")
 else:
-    print("Errou, tente novamente")
-
-
-
-senha = "calabreso123"
-tentativa_senha = input("Digite sua senha ")
-if senha != tentativa_senha:
-    print("Errou, tente novamente")
-else:
-    print("Acertou! Acesso liberado")
-
+    print("Reprovado!")
 
