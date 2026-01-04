@@ -107,8 +107,7 @@
 idade = int(input("Qual é a sua idade?"))
 if idade >= 18:
     print("Ta liberado!")
-if idade <= 17:
+else:
     print("Pode não!")
 print("Fim do programa")
 
-print("Olá")
