@@ -104,10 +104,29 @@
 
 # print(nume1 + nume2)
 
-idade = int(input("Qual é a sua idade?"))
-if idade >= 18:
-    print("Ta liberado!")
+# idade = int(input("Qual é a sua idade?"))
+# if idade >= 18:
+#     print("Ta liberado!")
+# else:
+#     print("Pode não!")
+# print("Fim do programa")
+
+# print(5 > 2)
+
+senha = "calabreso123"
+tentativa_senha = input("Digite sua senha ")
+if senha == tentativa_senha:
+    print("Acertou! Acesso liberado!")
 else:
-    print("Pode não!")
-print("Fim do programa")
+    print("Errou, tente novamente")
+
+
+
+senha = "calabreso123"
+tentativa_senha = input("Digite sua senha ")
+if senha != tentativa_senha:
+    print("Errou, tente novamente")
+else:
+    print("Acertou! Acesso liberado")
+
 
