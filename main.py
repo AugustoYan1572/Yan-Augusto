@@ -130,11 +130,22 @@
 #     print("Acertou! Acesso liberado")
 
 
-nota = float (input("Digite sua nota"))
-if nota >= 7:
-    print("Aprovado")
-elif nota >= 5:
-    print("Recuperação")
-else:
-    print("Reprovado!")
+# nota = float (input("Digite sua nota"))
+# if nota >= 7:
+#     print("Aprovado")
+# elif nota >= 5:
+#     print("Recuperação")
+# else:
+#     print("Reprovado!")
+
+# frutass = ["Bananaa","Maçãa","Uvaa"]
+# print(frutass[0])
+
+frutas = ["Banana","Maçã","Uva"]
+frutas[0] = "Abacaxi"
+frutas.append("Morango")
+frutas.insert(0, "Kiwi")
+
+print(frutas)
+
 
