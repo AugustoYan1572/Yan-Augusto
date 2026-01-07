@@ -148,4 +148,4 @@ frutas.insert(0, "Kiwi")
 
 print(frutas)
 
-
+print("Olhar")
