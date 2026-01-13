@@ -144,8 +144,11 @@
 frutas = ["Banana","Maçã","Uva"]
 frutas[0] = "Abacaxi"
 frutas.append("Morango")
-frutas.insert(0, "Kiwi")
+frutas.insert(2, "Kiwi")
+frutas.remove("Abacaxi")
+
+if "Uva" in frutas:
+    print("Tem uva nas frutas!")
 
 print(frutas)
 
-print("Olhar")
