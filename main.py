@@ -152,3 +152,4 @@ if "Uva" in frutas:
 
 print(frutas)
 
+print ("Olhando")
