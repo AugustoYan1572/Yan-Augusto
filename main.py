@@ -154,3 +154,4 @@ print(frutas)
 
 print ("Olhando")
 print ("Molhar")
+print ("voar")
