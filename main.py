@@ -152,5 +152,4 @@ if "Uva" in frutas:
 
 print(frutas)
 
-print ("Olhando")
-print ("Molhar")
+
