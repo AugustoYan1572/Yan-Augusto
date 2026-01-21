@@ -151,5 +151,5 @@ if "Uva" in frutas:
     print("Tem uva nas frutas!")
 
 print(frutas)
-
+print("ovelhas")
 
