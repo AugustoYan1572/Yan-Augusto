@@ -143,7 +143,7 @@
 
 frutas = ["Banana","Maçã","Uva"]
 frutas[0] = "Abacaxi"
-frutas.append("Morango")
+frutas.append("Limão")
 frutas.insert(2, "Kiwi")
 frutas.remove("Abacaxi")
 
